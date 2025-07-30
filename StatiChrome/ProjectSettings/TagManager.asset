@@ -50,5 +50,8 @@ TagManager:
   - name: Decor
     uniqueID: 1206134351
     locked: 0
+  - name: Player
+    uniqueID: 254521891
+    locked: 0
   m_RenderingLayers:
   - Default
