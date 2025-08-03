@@ -50,6 +50,9 @@ TagManager:
   - name: Decor
     uniqueID: 1206134351
     locked: 0
+  - name: Bullet
+    uniqueID: 533047301
+    locked: 0
   - name: Player
     uniqueID: 254521891
     locked: 0
